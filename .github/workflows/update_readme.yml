@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0/2 * * * *' # Runs every hour
+    - cron: '0/2 * * * *' # Runs every 2 minutes
   workflow_dispatch: # Manual trigger
 
 jobs:
@@ -31,3 +31,5 @@ jobs:
         git add README.md
         git commit -m "Automated update to README"
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.Profile }}
