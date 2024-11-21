@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0/2 * * * *' # Runs every 2 minutes
+    - cron: '* * 7 7 *' # Runs every 2 minutes
   workflow_dispatch: # Manual trigger
 
 jobs:
