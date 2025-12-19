@@ -1,22 +1,25 @@
 <h2 align="left">Hey Visitor, Welcome to my Wonderland! 🚀</h2>
 
-### 🏆 Coding Performance
+### 📊 Coding Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khantdotcom&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&width=1000" alt="GitHub Stats" width="100%"/>
-</div>
-
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/output/snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khantdotcom&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" width="49.5%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khantdotcom&layout=compact&langs_count=8&theme=dracula" width="49.5%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://leetcode.com/u/kokhanthtay/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/kokhanthtay?theme=dracula&font=Ubuntu&ext=activity" alt="LeetCode Stats" width="100%"/>
+    <img src="https://leetcode-stats-six.vercel.app/api?username=kokhanthtay&theme=dracula" width="100%" alt="LeetCode Stats" />
   </a>
+</div>
+
+<br/>
+
+### 🐍 Contribution Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <br/>
@@ -57,13 +60,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux" />
   <p><em>Services: AWS (S3, Lambda, RDS), CI/CD Pipelines</em></p>
-</div>
-
-### 📊 Language & Activity Analysis
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khantdotcom&layout=compact&langs_count=8&theme=dracula" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Khantdotcom&theme=dracula" width="48%" />
 </div>
 
 ### ✍️ Latest Blog Posts
