@@ -3,7 +3,7 @@
 ### 📊 Coding Performance
 <div align="center">
   <a href="https://leetcode.com/u/kokhanthtay/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/kokhanthtay?theme=dracula&font=Ubuntu&ext=activity" alt="LeetCode Stats" width="50%"/>
+    <img src="https://leetcard.jacoblin.cool/khantdotcom?theme=dracula&font=Ubuntu&ext=activity" alt="LeetCode Stats" width="50%"/>
   </a>
 </div>
 
