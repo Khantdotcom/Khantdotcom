@@ -1,9 +1,21 @@
 <h2 align="left">Hey Visitor, Welcome to my Wonderland! 🚀</h2>
 
+### 🏆 Coding Performance
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Khantdotcom&theme=dracula&hide_border=false" height="165" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khantdotcom&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&width=1000" alt="GitHub Stats" width="100%"/>
+</div>
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://leetcode.com/u/kokhanthtay/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/kokhanthtay?theme=dracula&ext=activity" height="165" alt="leetcode stats" />
+    <img src="https://leetcard.jacoblin.cool/kokhanthtay?theme=dracula&font=Ubuntu&ext=activity" alt="LeetCode Stats" width="100%"/>
   </a>
 </div>
 
@@ -47,22 +59,16 @@
   <p><em>Services: AWS (S3, Lambda, RDS), CI/CD Pipelines</em></p>
 </div>
 
-### 📊 Overall Statistics
+### 📊 Language & Activity Analysis
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khantdotcom&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khantdotcom&layout=compact&langs_count=6&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khantdotcom&layout=compact&langs_count=8&theme=dracula" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Khantdotcom&theme=dracula" width="48%" />
 </div>
 
 ### ✍️ Latest Blog Posts
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=3&username=@kokhanthtay&theme=dracula" alt="Medium posts" />
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <hr />
