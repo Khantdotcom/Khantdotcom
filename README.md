@@ -10,41 +10,43 @@
   <a href="https://discord.com/users/746357277279256678" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord" />
   </a>
-  <a href="https://www.youtube.com/@khant4514" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="youtube" />
-  </a>
 </div>
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Expertise
 
-**Frontend & Backend**
+**Frontend Development**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,ts,redux,js,html,css" />
+  <p><em>State & Data: Zustand, TanStack Query (React Query)</em></p>
 </div>
 
-<br />
-
-**Data Science & Machine Learning**
+**Backend & API**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,pandas,numpy,tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=nodejs,graphql,apollo,express,mongodb,postgres,redis,prisma" />
+  <p><em>Auth & ORM: Passport.js, TypeORM, REST Architecture</em></p>
 </div>
 
-<br />
-
-**Tools & Environment**
+**Data Engineering & Analytics**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,pycharm,jest,webpack" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,pycharts,githubactions" />
+  <p><em>Big Data & Ops: SQL (Window Functions), PySpark, Apache Airflow</em></p>
+</div>
+
+**DevOps & Cloud**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux" />
+  <p><em>Services: AWS S3, Lambda, RDS, CI/CD Pipelines</em></p>
 </div>
 
 ### 📊 Github Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khantdotcom&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khantdotcom&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khantdotcom&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khantdotcom&layout=compact&langs_count=6&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Khantdotcom&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Khantdotcom&theme=dracula" height="150" alt="streak graph" />
 </div>
 
 ### ✍️ Latest Blog Posts
