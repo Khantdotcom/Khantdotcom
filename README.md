@@ -61,11 +61,3 @@
 </div>
 
 <hr />
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Khantdotcom/count.svg" alt="Visitor Count" />
-</div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueXNueXNueXNueXNueXNueXNueXNueXNueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Qc-K0UbmZoAAAAd/giphy.gif" width="150" />
-</p>
