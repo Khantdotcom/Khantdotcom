@@ -3,15 +3,21 @@
 ### 📊 Coding Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khantdotcom&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" width="49.5%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khantdotcom&layout=compact&langs_count=8&theme=dracula" width="49.5%" alt="Top Languages" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Khantdotcom&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" width="450px" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khantdotcom&layout=compact&langs_count=8&theme=dracula" width="350px" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br/>
 
 <div align="center">
   <a href="https://leetcode.com/u/kokhanthtay/" target="_blank">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=kokhanthtay&theme=dracula" width="100%" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats-api.herokuapp.com/kokhanthtay" alt="LeetCode Stats" width="100%" />
   </a>
 </div>
 
