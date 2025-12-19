@@ -1,7 +1,15 @@
 <h2 align="left">Hey Visitor, Welcome to my Wonderland! 🚀</h2>
 
 ### 📊 Coding Performance
+<div align="center">
+  <a href="https://leetcode.com/u/kokhanthtay/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/kokhanthtay?theme=dracula&font=Ubuntu&ext=activity" alt="LeetCode Stats" width="50%"/>
+  </a>
+</div>
 
+<br/>
+
+### 🐍 Contribution Activity
 <div align="center">
   <table border="0">
     <tr>
@@ -15,15 +23,6 @@
   </table>
 </div>
 
-<div align="center">
-  <a href="https://leetcode.com/u/kokhanthtay/" target="_blank">
-    <img src="https://leetcode-stats-api.herokuapp.com/kokhanthtay" alt="LeetCode Stats" width="100%" />
-  </a>
-</div>
-
-<br/>
-
-### 🐍 Contribution Activity
 <div align="center">
   <img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
