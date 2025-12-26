@@ -2,28 +2,18 @@
 
 ### 📊 Coding Performance
 <div align="center">
-  <a href="https://leetcode.com/u/kokhanthtay/" target="_blank">
+  <a href="https://leetcode.com/u/khantdotcom/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/kokhanthtay?theme=dracula&font=Ubuntu&ext=activity" alt="LeetCode Stats" width="49%"/>
   </a>
-  <a href="https://github.com/Khantdotcom">
-    <img src="https://streak-stats.demolab.com?user=Khantdotcom&theme=dracula" alt="GitHub Streak" width="49%"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khantdotcom&theme=dracula" alt="GitHub Streak" width="49%"/>
 </div>
 
 <br/>
 
 ### 🐍 Contribution Activity
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Khantdotcom&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" width="450px" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khantdotcom&layout=compact&langs_count=8&theme=dracula" width="350px" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khantdotcom&theme=dracula" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khantdotcom&theme=dracula" width="45%"/>
 </div>
 
 <div align="center">
