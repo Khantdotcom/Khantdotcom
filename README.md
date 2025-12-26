@@ -3,9 +3,11 @@
 ### 📊 Coding Performance
 <div align="center">
   <a href="https://leetcode.com/u/kokhanthtay/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/khantdotcom?theme=dracula&font=Ubuntu&ext=activity" alt="LeetCode Stats" width="50%"/>
+    <img src="https://leetcard.jacoblin.cool/kokhanthtay?theme=dracula&font=Ubuntu&ext=activity" alt="LeetCode Stats" width="49%"/>
   </a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Khantdotcom&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://github.com/Khantdotcom">
+    <img src="https://streak-stats.demolab.com?user=Khantdotcom&theme=dracula" alt="GitHub Streak" width="49%"/>
+  </a>
 </div>
 
 <br/>
@@ -36,6 +38,9 @@
   </a>
   <a href="https://www.linkedin.com/in/khant-htay" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin" />
+  </a>
+  <a href="https://medium.com/@Khantdotcom" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" alt="medium" />
   </a>
   <a href="https://discord.com/users/746357277279256678" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord" />
@@ -68,9 +73,12 @@
   <p><em>Services: AWS (S3, Lambda, RDS), CI/CD Pipelines</em></p>
 </div>
 
-### ✍️ Latest Blog Posts
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=3&username=@kokhanthtay&theme=dracula" alt="Medium posts" />
+### ✍️ Blog & Articles
+<div align="left">
+  <p>I write about Full-stack development, Data Engineering, and cloud architecture on Medium.</p>
+  <a href="https://medium.com/@Khantdotcom" target="_blank">
+    <strong>Check out my latest posts on Medium →</strong>
+  </a>
 </div>
 
 <hr />
