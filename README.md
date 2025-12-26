@@ -2,12 +2,13 @@
 
 ### 📊 Coding Performance
 <div align="center">
-  <a href="https://leetcode.com/u/kokhanthtay/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/kokhanthtay?theme=dracula&font=Ubuntu&ext=activity" alt="LeetCode Stats" width="49%"/>
+  <a href="https://leetcode.com/u/khantdotcom/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/khantdotcom?theme=dracula&font=Ubuntu" alt="LeetCode Stats" width="49%" />
   </a>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/streak-stats?user=Khantdotcom&theme=dracula" alt="GitHub Streak" width="49%"/>
+  <img src="https://streak-stats.vercel.app/?user=Khantdotcom&theme=dracula&hide_border=true" alt="GitHub Streak" width="49%" />
 </div>
 
+<br/>
 <br/>
 
 ### 🐍 Contribution Activity
@@ -15,18 +16,30 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khantdotcom&theme=dracula&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
+<br/>
+<br/>
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Khantdotcom&show_icons=true&theme=dracula&hide_border=true" width="450px" alt="GitHub Stats" />
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khantdotcom&theme=dracula"
+          width="450px"
+          alt="GitHub Stats"
+        />
       </td>
       <td>
-        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=Khantdotcom&layout=compact&langs_count=8&theme=dracula&hide_border=true" width="350px" alt="Top Languages" />
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khantdotcom&theme=dracula"
+          width="350px"
+          alt="Top Languages"
+        />
       </td>
     </tr>
   </table>
 </div>
+
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/output/snake.svg" alt="Snake animation" width="100%" />
@@ -36,18 +49,20 @@
 
 <div align="left">
   <a href="mailto:khant.htay.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/khant-htay" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="https://medium.com/@Khantdotcom" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" alt="medium" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" />
   </a>
   <a href="https://discord.com/users/746357277279256678" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
   </a>
 </div>
+
+---
 
 ### 🛠️ Tech Stack & Expertise
 
@@ -65,7 +80,7 @@
 
 **Data Engineering & Analytics**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,pycharts" />
+  <img src="https://skillicons.dev/icons?i=python,pandas" />
   <p><em>Big Data: SQL (Advanced & Window Functions), PySpark, Apache Airflow</em></p>
 </div>
 
@@ -74,6 +89,8 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux" />
   <p><em>Services: AWS (S3, Lambda, RDS), CI/CD Pipelines</em></p>
 </div>
+
+---
 
 ### ✍️ Blog & Articles
 <div align="left">
@@ -90,5 +107,5 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9ueXNueXNueXNueXNueXNueXNueXNueXNueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Qc-K0UbmZoAAAAd/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/2Qc-K0UbmZoAAAAd/giphy.gif" width="150" />
 </p>
