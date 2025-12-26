@@ -101,11 +101,3 @@
 </div>
 
 <hr />
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Khantdotcom/count.svg" alt="Visitor Count" />
-</div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/2Qc-K0UbmZoAAAAd/giphy.gif" width="150" />
-</p>
