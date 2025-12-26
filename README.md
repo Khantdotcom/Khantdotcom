@@ -5,6 +5,7 @@
   <a href="https://leetcode.com/u/kokhanthtay/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/khantdotcom?theme=dracula&font=Ubuntu&ext=activity" alt="LeetCode Stats" width="50%"/>
   </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Khantdotcom&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 <br/>
