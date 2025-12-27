@@ -1,103 +1,126 @@
-<h2 align="left">Hey Visitor, Welcome to my Wonderland! 🚀</h2>
+<h1 align="center">Khant Htay</h1>
+<h3 align="center">Full-Stack & Data Engineer</h3>
 
-### 📊 Coding Performance
-<div align="center">
-  <a href="https://leetcode.com/u/khantdotcom/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/khantdotcom?theme=dracula&font=Ubuntu" alt="LeetCode Stats" width="49%" />
-  </a>
-  <img src="https://streak-stats.vercel.app/?user=Khantdotcom&theme=dracula&hide_border=true" alt="GitHub Streak" width="49%" />
-</div>
+<p align="center">
+Scalable systems • Data pipelines • Cloud-native architecture
+</p>
 
-<br/>
-<br/>
-
-### 🐍 Contribution Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khantdotcom&theme=dracula&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-<br/>
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khantdotcom&theme=dracula"
-          width="450px"
-          alt="GitHub Stats"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khantdotcom&theme=dracula"
-          width="350px"
-          alt="Top Languages"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/output/snake.svg" alt="Snake animation" width="100%" />
-</div>
-
-<br/>
-
-<div align="left">
-  <a href="mailto:khant.htay.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/khant-htay" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-  <a href="https://medium.com/@Khantdotcom" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" />
-  </a>
-  <a href="https://discord.com/users/746357277279256678" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
-  </a>
-</div>
+<p align="center">
+  <a href="mailto:khant.htay.dev@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/khant-htay">LinkedIn</a> •
+  <a href="https://medium.com/@Khantdotcom">Medium</a> •
+  <a href="https://leetcode.com/u/khantdotcom/">LeetCode</a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+## 👋 About Me
 
-**Frontend & Mobile**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,redux,js,html,css" />
-  <p><em>State & Data: Zustand, TanStack Query (React Query)</em></p>
-</div>
+I’m a **Full-Stack & Data Engineer** focused on building **scalable web applications**,  
+**reliable data pipelines**, and **cloud-native systems**.
 
-**Backend & Architecture**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,graphql,apollo,express,mongodb,postgres,redis,prisma" />
-  <p><em>Auth & ORM: Passport.js, TypeORM, REST API Design</em></p>
-</div>
+- Strong foundation in **algorithms & problem solving**
+- Experience with **end-to-end system design**
+- Passionate about **clean architecture, performance, and reliability**
 
-**Data Engineering & Analytics**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas" />
-  <p><em>Big Data: SQL (Advanced & Window Functions), PySpark, Apache Airflow</em></p>
-</div>
+---
+
+## 🧠 Core Skills
+
+**Frontend**
+- React, TypeScript, JavaScript
+- State management: Redux, Zustand
+- Data fetching: TanStack Query
+
+**Backend**
+- Node.js, Express, GraphQL
+- REST API design
+- PostgreSQL, MongoDB, Redis
+- ORMs: Prisma, TypeORM
+
+**Data Engineering**
+- Python, Pandas
+- Advanced SQL (CTEs, Window Functions)
+- PySpark, Apache Airflow
+- ETL pipelines & analytics
 
 **DevOps & Cloud**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux" />
-  <p><em>Services: AWS (S3, Lambda, RDS), CI/CD Pipelines</em></p>
-</div>
+- Docker, Kubernetes
+- AWS (S3, Lambda, RDS)
+- GitHub Actions (CI/CD)
+- Linux
 
 ---
 
-### ✍️ Blog & Articles
-<div align="left">
-  <p>I write about Full-stack development, Data Engineering, and cloud architecture on Medium.</p>
-  <a href="https://medium.com/@Khantdotcom" target="_blank">
-    <strong>Check out my latest posts on Medium →</strong>
-  </a>
-</div>
+## 🚀 Featured Projects
 
-<hr />
+### 🔹 Scalable Data Pipeline Platform
+**Python · PySpark · Airflow · PostgreSQL · AWS**
+
+- Built fault-tolerant ETL pipelines with retries & monitoring
+- Processed large datasets with Spark
+- Automated workflows using Airflow DAGs
+
+---
+
+### 🔹 Full-Stack SaaS Application
+**React · TypeScript · Node.js · GraphQL · Redis**
+
+- Authentication & authorization
+- API caching with Redis
+- CI/CD with GitHub Actions
+- Deployed on cloud infrastructure
+
+---
+
+### 🔹 Analytics Dashboard
+**React · TanStack Query · SQL**
+
+- Real-time data visualization
+- Optimized queries using indexes & window functions
+- Clean UI with performance-focused state management
+
+---
+
+## 🧩 Problem Solving
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/khantdotcom?theme=dark&font=Ubuntu&hide_border=true"
+    width="420"
+    alt="LeetCode Stats"
+  />
+</p>
+
+---
+
+## 📊 Engineering Metrics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Khantdotcom&show_icons=true&theme=dracula&hide_border=true"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khantdotcom&layout=compact&theme=dracula&hide_border=true"
+    width="48%"
+  />
+</p>
+
+---
+
+## ✍️ Writing & Knowledge Sharing
+
+I write about:
+- Full-stack engineering
+- Data Structures & Algorithms
+- System Design
+
+📖 **Medium:**  
+https://medium.com/@Khantdotcom
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/output/snake.svg" />
+</p>
