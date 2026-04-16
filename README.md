@@ -5,5 +5,3 @@
   <a href="https://medium.com/@Khantdotcom">Medium</a> •
   <a href="https://leetcode.com/u/khantdotcom/">LeetCode</a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=Khantdotcom&color=blue)
