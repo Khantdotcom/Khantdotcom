@@ -1,5 +1,3 @@
-<h3 align="center">Junior Backend & AI Engineer</h3>
-
 <p align="center">
   <a href="mailto:68011367@kmitl.ac.th">Email</a> •
   <a href="https://www.linkedin.com/in/khant-htay">LinkedIn</a> •
