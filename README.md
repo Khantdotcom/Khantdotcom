@@ -7,9 +7,6 @@
 
 ---
 
-###  ♟️ chess & anime lover, 🌍 traveller trying to be grounded :D
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
