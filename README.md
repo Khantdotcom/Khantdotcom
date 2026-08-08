@@ -1,4 +1,4 @@
-# Khant Htay
+7# Khant Htay
 
 **Software Engineer | AI & Systems**
 
@@ -38,7 +38,5 @@
 ### Future Pointers
 
 * [ ] Build a web server from scratch in raw C
-
-* [ ] Open Source: Contribute to Google Summer of Code (GSoC 2027)
 
 * [ ] Launch EduTech products to make tech career development less painful
