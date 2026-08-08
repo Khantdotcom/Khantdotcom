@@ -12,7 +12,7 @@
 
 * **Studying:** Sophomore Software Engineering @ KMITL
 * **Building:** AI Engineer @ KBTG | Night-Shift @ 42 Bangkok
-* **Organizing:** Tech community in Thailand (supported by HackerRank)
+* **Leading:** A technical community in Thailand, with support from HackerRank
 * **Offline:** Chess, poetry, new places, good food 🌴
 
 ---
