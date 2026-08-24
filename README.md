@@ -62,9 +62,6 @@
 
 ### GitHub Metrics
 
-<div align="center">
-  <a href="https://github.com/Khantdotcom">
-    <img src="https://github-readme-stats.vercel.app/api?username=Khantdotcom&show_icons=true&theme=radical&hide_border=true" alt="Khant's GitHub Stats" />
   </a>
   <a href="https://github.com/Khantdotcom">
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Khantdotcom&theme=radical&hide_border=true" alt="Khant's GitHub Streak" />
