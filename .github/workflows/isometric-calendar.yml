@@ -36,5 +36,5 @@ jobs:
               token: NOT_NEEDED
               base: ""
               plugin_leetcode: yes
-              plugin_leetcode_user: kokhanthtay
+              plugin_leetcode_user: khantdotcom
               plugin_leetcode_sections: solved, skills, recent
