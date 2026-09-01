@@ -66,6 +66,8 @@
 
 </div>
 
+<br /><br />
+<img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/main/metrics.plugin.leetcode.svg" alt="LeetCode Stats" />
 ---
 
 ### Future Pointers
