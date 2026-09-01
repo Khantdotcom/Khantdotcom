@@ -73,7 +73,7 @@
 <br /><br />
 <!-- Codeforces Stats Card -->
 <a href="https://codeforces.com/profile/your_codeforces_username">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=your_codeforces_username&theme=radical&hide_border=true" alt="Codeforces Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kokhanthtay&theme=radical&hide_border=true" alt="Codeforces Stats" />
 </a>
 
 ### Future Pointers
