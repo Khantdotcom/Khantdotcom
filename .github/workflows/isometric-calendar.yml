@@ -29,12 +29,13 @@ jobs:
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
+
       - name: LeetCode Stats
         uses: lowlighter/metrics@latest
         with:
-              filename: metrics.plugin.leetcode.svg
-              token: NOT_NEEDED
-              base: ""
-              plugin_leetcode: yes
-              plugin_leetcode_user: khantdotcom
-              plugin_leetcode_sections: solved, skills, recent
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user: khantdotcom
+          plugin_leetcode_sections: solved, skills, recent
