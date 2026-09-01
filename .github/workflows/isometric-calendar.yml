@@ -35,14 +35,13 @@ jobs:
           
           # 2. FILTER BY REPOSITORY OWNER
           # Options: organization (default), user, all
-          plugin_notable_from: all
+          plugin_notable_from: organization
           
           # 3. FILTER BY POPULARITY (GitHub search syntax)
           # Example: Only show repositories with more than 50 stars          
           # 4. HIDE SPECIFIC REPOSITORIES (comma-separated)
           # Replace with actual repository names you want to hide
-          plugin_notable_skipped: firstcontributions/first-contributions, MegaWiz-Dev-Team/agentic_rag_workshop
-
+          plugin_notable_skipped: firstcontributions/first-contributions, MegaWiz-Dev-Team/agentic_rag_workshop, ye-kyaw-thu/AIE-F-B2, Greenstand/treetracker-wallet-app, terminal-42s/42_examshell, 247chan/teahouse-backend, ye-kyaw-thu/AIE-F, P-nut-design/Rush02
       - name: LeetCode Stats
         uses: lowlighter/metrics@latest
         with:
