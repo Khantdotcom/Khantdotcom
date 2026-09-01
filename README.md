@@ -61,7 +61,8 @@
 ---
 
 ### GitHub Metrics
-
+<br /><br />
+<img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" />
   </a>
   <a href="https://github.com/Khantdotcom">
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Khantdotcom&theme=radical&hide_border=true" alt="Khant's GitHub Streak" />
