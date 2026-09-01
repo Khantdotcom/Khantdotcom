@@ -33,7 +33,8 @@
 - **Building:** AI Engineer @ KBTG | Night-Shift @ 42 Bangkok
 - **Leading:** A technical community in Thailand, with support from HackerRank
 - **Offline:** Chess, poetry, new places, good food 🌴
-
+<br /><br />
+<img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/main/metrics.plugin.notable.indepth.svg" alt="Notable Contributions" />
 ---
 
 ### Current Focus
@@ -59,22 +60,12 @@
 
 
 ---
-
-### GitHub Metrics
-<br /><br />
-<img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" />
-
-</div>
-
-<br /><br />
-<img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/main/metrics.plugin.leetcode.svg" alt="LeetCode Stats" />
+<div align="left">
+    <a href="https://codeforces.com/profile/kokhanthtay">
+    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=kokhanthtay&theme=radical" alt="Codeforces Badge" />
+  </a>
+    <br /><br /><!-- Side by Side: Calendar and LeetCode -->
+  <img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="48%" />
+  <img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/main/metrics.plugin.leetcode.svg" alt="LeetCode Stats" width="48%" />
+  
 ---
-
-<a href="https://codeforces.com/profile/kokhanthtay">
-  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=kokhanthtay&theme=radical" alt="Codeforces Badge" />
-</a>
-
-### Future Pointers
-
-- [ ] Build a web server from scratch in raw C
-- [ ] Launch EduTech products to make tech career development less painful
