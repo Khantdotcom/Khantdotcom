@@ -29,6 +29,19 @@ jobs:
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
+  # 1. FILTER BY CONTRIBUTION TYPE (comma-separated)
+          # Options: commit, pull_request, issue
+          plugin_notable_types: commit, pull_request, issue
+          
+          # 2. FILTER BY REPOSITORY OWNER
+          # Options: organization (default), user, all
+          plugin_notable_from: all
+          
+          # 3. FILTER BY POPULARITY (GitHub search syntax)
+          # Example: Only show repositories with more than 50 stars          
+          # 4. HIDE SPECIFIC REPOSITORIES (comma-separated)
+          # Replace with actual repository names you want to hide
+          plugin_notable_skipped: firstcontributions/first-contributions, MegaWiz-Dev-Team/agentic_rag_workshop
 
       - name: LeetCode Stats
         uses: lowlighter/metrics@latest
