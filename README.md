@@ -1,71 +1,60 @@
-<div align="center">
+ <div align="center">
 
 # Khant Htay
 
-**Software Engineer | AI & Systems**
+**Backend Software Engineer | Java · Systems · Infrastructure**
 
-> *Optimizing my own path-finding algorithms in life.*
-
-<br>
+*Optimizing my own path-finding algorithms in life.*
 
 <p align="center">
-  <a href="mailto:68011367@kmitl.ac.th">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/khant-htay">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@Khantdotcom">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://leetcode.com/u/khantdotcom/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
+  <a href="mailto:68011367@kmitl.ac.th"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/khant-htay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@Khantdotcom"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://leetcode.com/u/khantdotcom/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 </div>
 
 ---
 
-### The Loop
+### About Me
 
-- **Studying:** Sophomore Software Engineering @ KMITL
-- **Building:** AI Engineer @ KBTG | Night-Shift @ 42 Bangkok
-- **Leading:** A technical community in Thailand, with support from HackerRank
-- **Offline:** Chess, poetry, new places, good food 🌴
----
+Software Engineering student @ KMITL (2025–2029), building backend systems and developer infrastructure.
+
+- **Building:** SaaS products @ Schedjuice and Vinter.
+- **Engineering:** AI test automation @ KBTG; open-source developer tooling.
+- **Community:** HackerRank Campus Ambassador · 42 Bangkok Common Core.
+- **Interests:** Distributed systems, performance engineering, AI infrastructure.
 
 ### Current Focus
 
-- **Low-Level C:** Rebuilding `libc` (C Std library) using only `write()`, `malloc()`, and `free()`.
-- **AI Infrastructure:** Token/context optimization for large-scale AI backends and architecting API services for ALM QC & Grafana.
-- **Applied NLP:** Research on a sense of humor in low-resource languages (Burmese).
-- **Writing:** Documenting system failures, fixes, and lessons learned on my [Medium](https://medium.com/@Khantdotcom).
-
----
+- **Backend:** Java 17, Spring Boot, PostgreSQL, Redis, transaction integrity.
+- **Systems:** C, Linux, concurrency, Docker, CI/CD, observability.
+- **Infrastructure:** Fault-tolerant Execution, Telemetry ingestion, Grafana APIs, automated testing.
 
 ### Tech Stack
 
-- **Languages:** C, Python, Java, TypeScript/JavaScript, SQL
-
-
-- **Infrastructure:** Linux/Unix, Docker, CI/CD (GitHub Actions), Grafana
-
-- **Backend:** Spring Boot, RESTful APIs, PostgreSQL, Redis, Microservices
-
-
-- **AI/ML:** PyTorch, NLP Architectures, Applied LLMs, Prompt Engineering
-
+- **Languages:** Java, C, Python, TypeScript/JavaScript, SQL, C#
+- **Backend:** Spring Boot, Spring Security, JPA, REST APIs
+- **Databases:** PostgreSQL, MySQL, SQLite, Redis
+- **Infrastructure:** Linux, Docker, GitHub Actions, Grafana
+- **Tools:** Flyway, Prisma, JUnit
 
 ---
-<div align="left">
-    <a href="https://codeforces.com/profile/kokhanthtay">
+
+### Competitive Programming & Contributions
+
+<p>
+  <a href="https://codeforces.com/profile/kokhanthtay">
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=kokhanthtay&theme=radical" alt="Codeforces Badge" />
   </a>
-  <br /><br />
-<img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/main/metrics.plugin.notable.indepth.svg" alt="Notable Contributions" />
-    <br /><br />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/main/metrics.plugin.notable.indepth.svg" alt="Notable Contributions" />
+</p>
+
+<p>
   <img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="48%" />
   <img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/main/metrics.plugin.leetcode.svg" alt="LeetCode Stats" width="48%" />
-  
----
+</p>
