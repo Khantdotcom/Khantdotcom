@@ -2,7 +2,7 @@
 
 # Khant Htay
 
-**Backend Software Engineer | Java · Systems · Infrastructure**
+**Backend Software Engineer | Backend Systems · Infrastructure**
 
 *Optimizing my own path-finding algorithms in life.*
 
@@ -19,16 +19,16 @@
 
 ### About Me
 
-Software Engineering student @ KMITL (2025–2029), building backend systems and developer infrastructure.
+Software Engineering student @ KMITL & 42Bangkok(2025–2029), building backend systems, execution infrastructure & LLM inferencing
 
-- **Building:** SaaS products @ Schedjuice and Vinter.
-- **Engineering:** AI test automation @ KBTG; open-source developer tooling.
-- **Community:** HackerRank Campus Ambassador · 42 Bangkok Common Core.
+- **Building:** SaaS products @ Schedjuice
+- **Engineering:** AI test automation @ KBTG
+- **Community:** Campus Ambassador @ HackerRank
 - **Interests:** Distributed systems, performance engineering, AI infrastructure.
 
 ### Current Focus
 
-- **Backend:** Java 17, Spring Boot, PostgreSQL, Redis, transaction integrity.
+- **Backend:** Java 17, Spring Boot, PostgreSQL, Redis.
 - **Systems:** C, Linux, concurrency, Docker, CI/CD, observability.
 - **Infrastructure:** Fault-tolerant Execution, Telemetry ingestion, Grafana APIs, automated testing.
 
@@ -42,7 +42,7 @@ Software Engineering student @ KMITL (2025–2029), building backend systems and
 
 ---
 
-### Competitive Programming & Contributions
+### Contributions
 
 <p>
   <a href="https://codeforces.com/profile/kokhanthtay">
