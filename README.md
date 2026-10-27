@@ -28,17 +28,10 @@ Software Engineering student @ KMITL & 42Bangkok(2025–2029), building backend 
 
 ### Current Focus
 
-- **Backend:** Java 17, Spring Boot, PostgreSQL, Redis.
-- **Systems:** C, Linux, concurrency, Docker, CI/CD, observability.
-- **Infrastructure:** Fault-tolerant Execution, Telemetry ingestion, Grafana APIs, automated testing.
-
-### Tech Stack
-
-- **Languages:** Java, C, Python, TypeScript/JavaScript, SQL, C#
-- **Backend:** Spring Boot, Spring Security, JPA, REST APIs
-- **Databases:** PostgreSQL, MySQL, SQLite, Redis
+- **Backend:** Java 17, Spring Boot, PostgreSQL, Redis, Spring Boot, Spring Security
+- **Systems:** C, Linux, concurrency, Docker, CI/CD
 - **Infrastructure:** Linux, Docker, GitHub Actions, Grafana
-- **Tools:** Flyway, Prisma, JUnit
+- **Databases:** PostgreSQL, MySQL, SQLite, Redis
 
 ---
 
