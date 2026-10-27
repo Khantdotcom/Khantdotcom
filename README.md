@@ -38,12 +38,6 @@ Software Engineering student @ KMITL & 42Bangkok(2025–2029), building backend 
 ### Contributions
 
 <p>
-  <a href="https://codeforces.com/profile/kokhanthtay">
-    <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=kokhanthtay&theme=radical" alt="Codeforces Badge" />
-  </a>
-</p>
-
-<p>
   <img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="48%" />
   <img src="https://raw.githubusercontent.com/Khantdotcom/Khantdotcom/main/metrics.plugin.leetcode.svg" alt="LeetCode Stats" width="48%" />
 </p>
