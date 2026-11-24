@@ -2,7 +2,7 @@
 
 # Khant Htay
 
-**Backend Software Engineer | Backend Systems · Infrastructure**
+**Backend Software Engineer | Backend Systems · Execution Infrastructure**
 
 *Optimizing my own path-finding algorithms in life.*
 
